@@ -1,0 +1,6 @@
+Hello, This is a new file. I am planning to stash this, and see how it works. 
+I am doing this by 
+git stash
+git stash pop
+git stash clear: can be used to clear the stash
+
